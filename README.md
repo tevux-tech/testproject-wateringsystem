@@ -1,1 +1,1 @@
-# basic-template
+# Watering System (test project)
